@@ -404,5 +404,14 @@
       "Expected commit message of 'Fix phrasing of heading', got 'Add the search feature' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787818917.87495,
+    "completed_at": 1787818922.870677,
+    "comments": [
+      "Expected commit message of 'Add the search feature', got 'Add the delete feature' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
