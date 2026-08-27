@@ -386,5 +386,14 @@
       "Expected commit message of 'Fix phrasing of heading', got 'add feature search' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787818354.746832,
+    "completed_at": 1787818360.265322,
+    "comments": [
+      "Expected commit message of 'Fix phrasing of heading', got '<Missing commit>' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
